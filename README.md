@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Backend Developer
 -----------------
 
-highly passionate backend developer with a relentless drive for crafting robust and scalable solutions. Proficient in Java, Python, APIs Skilled in working with databases, including, Database Systems, PostgreSQL, MongoDB, Strong knowledge of server-side frameworks like Framework Name, Flask, Spring.
+Highly passionate backend developer with a relentless drive for crafting robust and scalable solutions. Proficient in Java, Python, APIs Skilled in working with databases, including, Database Systems, PostgreSQL, MongoDB, Strong knowledge of server-side frameworks like Framework Name, Flask, Spring.
 
 * 🌍  I'm based in India
 * ✉️  You can contact me at [anuragknmishra91@gmail.com](mailto:anuragknmishra91@gmail.com)
