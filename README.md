@@ -1,14 +1,17 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Anurag Mishra
 =====================================================================================================================================
 
-Backend Developer
+AI/ML Engineer
 -----------------
 
-Highly passionate backend developer with a relentless drive for crafting robust and scalable solutions. Proficient in Java, Python, APIs Skilled in working with databases, including, Database Systems, PostgreSQL, MongoDB, Strong knowledge of server-side frameworks like Framework Name, Flask, Spring.
+👋 Hi there! I'm an AI/ML Engineer with a passion for building innovative solutions that harness the power of data. With experience in machine learning algorithms, deep learning frameworks, and data analytics, I love transforming complex problems into actionable insights.
 
+🔍 My projects range from predictive modeling to natural language processing, and I’m always eager to learn new techniques and collaborate with fellow developers.
+
+💡 Let's connect and explore the endless possibilities of AI together!
 * 🌍  I'm based in India
 * ✉️  You can contact me at [anuragknmishra91@gmail.com](mailto:anuragknmishra91@gmail.com)
-* 🧠  I'm learning Rust programming language
+* 🧠  I'm learning LLM models.
 * 🤝  I'm open to collaborating on Machine learning projects
 
 ### Skills
